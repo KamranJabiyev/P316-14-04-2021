@@ -1,0 +1,11 @@
+E:\P316\C#\Generictype\Generictype\bin\Debug\netcoreapp3.1\Generictype.exe
+E:\P316\C#\Generictype\Generictype\bin\Debug\netcoreapp3.1\Generictype.deps.json
+E:\P316\C#\Generictype\Generictype\bin\Debug\netcoreapp3.1\Generictype.runtimeconfig.json
+E:\P316\C#\Generictype\Generictype\bin\Debug\netcoreapp3.1\Generictype.runtimeconfig.dev.json
+E:\P316\C#\Generictype\Generictype\bin\Debug\netcoreapp3.1\Generictype.dll
+E:\P316\C#\Generictype\Generictype\bin\Debug\netcoreapp3.1\Generictype.pdb
+E:\P316\C#\Generictype\Generictype\obj\Debug\netcoreapp3.1\Generictype.csprojAssemblyReference.cache
+E:\P316\C#\Generictype\Generictype\obj\Debug\netcoreapp3.1\Generictype.AssemblyInfoInputs.cache
+E:\P316\C#\Generictype\Generictype\obj\Debug\netcoreapp3.1\Generictype.AssemblyInfo.cs
+E:\P316\C#\Generictype\Generictype\obj\Debug\netcoreapp3.1\Generictype.dll
+E:\P316\C#\Generictype\Generictype\obj\Debug\netcoreapp3.1\Generictype.pdb
